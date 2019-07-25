@@ -20,6 +20,9 @@
     目录下资源没一份就是 750/360）来解决碎片化和实际开发中的问题，当然在不同手机上会有一些差异，可以通过增加屏幕适配dp
     值进行处理
 ### 使用方法
+![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/2.jpg?raw=true"github")
+
+![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/1.jpg?raw=true"github")
     
     
 
