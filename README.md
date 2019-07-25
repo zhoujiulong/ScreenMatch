@@ -21,7 +21,10 @@
     值进行处理
 ### 使用方法
     打开项目，找到ScreenMatchUtil这个类，修改框框中的值然后点击运行main方法就会生成相应的文件到对应的目录
+    如果某个手机运行后发现显示效果和UI设计稿件尺寸对不上，可运行项目后找到对应的手机屏幕widthDP值添加到mDefaultDPArr中
 ![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/2.jpg?raw=true"github")<br>
+![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/3.jpg?raw=true"github")<br>
+![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/4.jpg?raw=true"github")<br>
 ![github](https://github.com/jiulong160/ScreenMatch/blob/master/img/1.jpg?raw=true"github")<br>
     
     
